@@ -50,4 +50,4 @@ Se calcularon KPIs fundamentales (Ventas Totales, Cantidad Vendida, Valor Promed
 - Diseñar campañas de marketing dirigidas específicamente al segmento masculino y a grupos etarios menos representados para ampliar la cuota de mercado.
 
 ---
-*Este proyecto fue desarrollado en colaboración académica por el equipo: Amaya P., Cortez V., Manrique A., Martinez C., Melchiorre M.*[cite: 2]
+*Este proyecto fue desarrollado en colaboración académica por el equipo: Amaya P., Cortez V., Manrique A., Martinez C., Melchiorre M.
